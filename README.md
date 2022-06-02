@@ -1,6 +1,6 @@
-# LAB - Class xx
-## Project: Project Name Here
-### Author: Student/Group Name
+# LAB - Class 33
+## Project: Authentication & Production Server
+### Author: Rachel Freeland
 ### Links and Resources
 <!-- back-end server url (when applicable)
 front-end application (when applicable) -->
